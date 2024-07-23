@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="operations">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+
+    <string-array name="priority_levels">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    <string-array name="apps">
+        <item>Calculator</item>
+        <item>Todo List</item>
+    </string-array>
+</resources>
